@@ -27,8 +27,6 @@
   <img src="https://img.shields.io/badge/COBOL-4F5D95?logo=cobol&style=plastic&logoColor=white"><br>
   <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/Fedora-294172?logo=fedora&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/Kodachi-326ce5?logo=linux&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kali-linux&style=plastic&logoColor=white">
 </div>
 
 <br>
