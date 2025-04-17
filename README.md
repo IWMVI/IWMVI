@@ -5,14 +5,15 @@
     <td>
       <ul>
         <li>🎮 Apaixonado por jogos como <strong>Diablo</strong> e <strong>Dark Souls</strong></li>
-        <li>📺 Fã de <i>Vikings</i>, <i>Game of Thrones</i> e <i>Supernatural</i></li>
+        <li>📚 Entusiasta em Ciência de Dados e Inteligência Artificial</li>
         <li>🎓 Estudante na <strong>FATEC Zona Leste</strong></li>
         <br/>
         <li><strong>🌱 Atualmente aprendendo:</strong></li>
           <ul>
-            <li><a href="https://python.org/" target="_blank"><img align="top" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a></li>
-            <li><a href="https://nextjs.org/" target="_blank"><img align="top" alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a></li>
-            <li><a href="https://react.dev/" target="_blank"><img align="top" alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a></li>
+            <li><img align="top" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></li>
+            <li><img align="top" alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></li>
+            <li><img align="top" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></li>
+            <li><img align="top" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" /></li>
           </ul>
       </ul>
     </td>
@@ -27,28 +28,13 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://java.com/"><img alt="Java" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" /></a>
-  <a href="https://spring.io/"><img alt="Spring Framework" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" /></a>
-  <a href="https://python.org/"><img alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" /></a>
-  <a href="https://www.djangoproject.com/"><img alt="Django" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" /></a>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" /></a>
-  <a href="https://react.dev/"><img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" /></a>
-  <a href="https://nextjs.org/"><img alt="Next.js" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" /></a>
-  <a href="https://www.docker.com/"><img alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" /></a>
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server/"><img alt="SQL Server" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" /></a>
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=IWMVI&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IWMVI&langs_count=6&theme=transparent&hide_border=true" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 ---
