@@ -1,55 +1,87 @@
-## 👋 Olá, eu sou o Wallace!
+<h1 align="center">🚀 Wallace Martins Vieira</h1>
+<h3 align="center">Desenvolvedor Backend | Foco em C# & .NET | Fã de jogos desafiadores e soluções elegantes 🧠</h3>
 
-<table border="0" text-align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>🎮 Apaixonado por jogos como <strong>Diablo</strong> e <strong>Dark Souls</strong></li>
-        <li>📚 Entusiasta em Ciência de Dados e Inteligência Artificial</li>
-        <li>🎓 Estudante na <strong>FATEC Zona Leste</strong></li>
-        <br/>
-        <li><strong>🌱 Atualmente aprendendo:</strong></li>
-          <ul>
-            <li><img align="top" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></li>
-            <li><img align="top" alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></li>
-            <li><img align="top" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></li>
-            <li><img align="top" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" /></li>
-          </ul>
-      </ul>
-    </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60%" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
----
-
-### 📫 Como me encontrar
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/wmv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:wmvwallace@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
----
-
-### 🏆 Troféus do GitHub
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IWMVI&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=-1" alt="IWMVI" /></a> 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220px" alt="Coding" />
 </p>
+
+---
+
+## 👨‍💻 Sobre Mim
+
+🎮 Apaixonado por desafios — tanto nos jogos como <strong>Diablo</strong> e <strong>Dark Souls</strong>, quanto na programação.  
+💻 Foco em backend com <strong>C#</strong>, <strong>.NET</strong> e arquitetura moderna, buscando sempre **performance, clareza e segurança**.  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na <strong>FATEC Zona Leste</strong>.  
+
+💡 Curioso por natureza, acredito que o código bem escrito é como uma boa jogada: preciso, eficiente e com propósito.
+
+---
+
+## 🚀 Em constante evolução
+
+Atualmente aprofundando meu conhecimento em:
+
+- 🔧 <strong>APIs RESTful com ASP.NET Core</strong>  
+- 🧱 <strong>Entity Framework Core</strong> com Code First, Migrations e boas práticas de persistência  
+- 🧪 <strong>Testes Automatizados</strong> com xUnit, Moq e cobertura de código  
+- 🔄 Integrações com <strong>Python</strong> para Análise de Dados (Pandas + Scikit-Learn)  
+- 🧼 <strong>Clean Architecture</strong>, <strong>SOLID</strong> e separação de responsabilidades  
+
+<div align="center">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="EF Core" src="https://img.shields.io/badge/Entity_Framework_Core-68217A?style=for-the-badge&logo=entity-framework&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+---
+
+## 💼 Projetos em Destaque
+
+### 🛒 Sistema de Gestão de Produtos
+> ✔️ Backend robusto com autenticação, controle de permissões e persistência com SQL Server  
+> ✔️ Arquitetura em camadas com aplicação de padrões como Repository e Service  
+> ✔️ Desenvolvido com foco em escalabilidade e testes
+
+---
+
+### 🔍 Microserviço de Recomendação com Python
+> ✔️ Conecta-se à API .NET para receber dados de comportamento do usuário  
+> ✔️ Processa e retorna recomendações baseadas em padrões de uso  
+> ✔️ Solução híbrida entre backend C# e análise Python
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wmv/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:wmvwallace@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IWMVI&theme=onedark&no-bg=true&margin-w=15&margin-h=15&column=3" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔎 Um Pouco Mais Sobre Mim
+
+- 🕹️ Gosto de jogos que exigem estratégia, foco e resiliência — exatamente como no desenvolvimento de software  
+- 🔧 Amo transformar ideias em soluções reais e funcionais  
+- 🤝 Valorizo trabalho em equipe, documentação e código limpo  
+- 🎯 **Meta 2025**: contribuir com projetos open source em C# e dominar DDD (Domain-Driven Design)
+
+---
+
+✨ Obrigado por visitar meu perfil!  
+Sinta-se à vontade para explorar meus repositórios e ver como combino tecnologia, curiosidade e paixão por resolver problemas reais.
