@@ -22,10 +22,10 @@
 
 ### 🔸 ```Tecnologias``` 📚
 
-| 💡 **HTML** <img align="center" alt="HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | 🎨 **CSS** <img align="center" alt="CSS" height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | ⚙️ **JavaScript** <img align="center" alt="JS" height="30" width="30" src="https://img.icons8.com/?size=48&id=108784&format=png"> | ⚛️ **React.js** <img align="center" alt="React" height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> | 🛠 **Node.js** <img align="center" alt="Node" height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> | 🗄 **SQL / MongoDB** <img align="center" alt="DB" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> |
+| 💡 **HTML** <img align="center" alt="HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> | 🎨 **CSS** <img align="center" alt="CSS" height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | ⚙️ **JavaScript** <img align="center" alt="JS" height="30" width="30" src="https://img.icons8.com/?size=48&id=108784&format=png"> | ☕ **Java** <img align="center" alt="Java" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> | ⚛️ **React.js** <img align="center" alt="React" height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> | 🛠 **Node.js** <img align="center" alt="Node" height="28" width="28" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 
-| 🧩 **Express.js** <img align="center" alt="Express" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> | ⚙️ **Sequelize** <img align="center" alt="Sequelize" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"> | 🐧 **Linux** <img align="center" alt="Linux" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> | 🔐 **Segurança Endpoint** | 🔁 **Scrum / Kanban** | 🔧 **POO / Git** <img align="center" alt="Git" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> |
+| 🗄 **SQL / MongoDB** <img align="center" alt="DB" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> | 🧩 **Express.js** <img align="center" alt="Express" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> | ⚙️ **Sequelize** <img align="center" alt="Sequelize" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"> | 🌱 **Spring Boot** <img align="center" alt="Spring" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> | 🐧 **Linux** <img align="center" alt="Linux" height="28" width="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> |  |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 
 ---
@@ -38,8 +38,8 @@
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/IWMVI/IWMVI/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/IWMVI/IWMVI/main/dist/github-contribution-grid-snake-dark.svg)
 
 ---
 
-> _"Tecnologia é ponte, não muro. Código é ferramenta, não fim."_ 🚀  
+> _"Tecnologia é ponte, não muro. Código é ferramenta, não fim."_ 🚀
