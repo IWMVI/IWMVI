@@ -48,7 +48,7 @@ Atualmente desenvolvo projetos fullstack e busco aplicar meus conhecimentos em s
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=IWMVI&layout=compact&langs_count=10&theme=tokyonight&custom_title=Tecnologias"
         alt="Gráfico Top Linguagens"
-        style="height: 160px; width: 100%; max-width: 320px; object-fit: contain;"
+        style="height: 185px; width: 100%; max-width: 320px; object-fit: contain;"
       />
     </td>
     <td align="center" style="width: 50%; padding: 0 10px;">
