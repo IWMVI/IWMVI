@@ -16,19 +16,19 @@ jobs:
       - name: Generate Skyline
         run: |
           curl -L "https://skyline.github.com/${{ github.repository_owner }}/2024.svg" -o skyline.svg
-          if [ ! -s skyline.svg ]; then
-            echo "Error: Failed to download skyline.svg or file is empty."
-            exit 1
+
+      - name: Check for Changes
+        run: |
+          if git diff --quiet skyline.svg; then
+            echo "No changes to commit."
+            exit 0
           fi
-          
+
       - name: Commit & Push
+        if: success()  # Only run if there are changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add skyline.svg
-          if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Atualizar skyline 3D"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          git commit -m "Atualizar skyline 3D"
+          git push
