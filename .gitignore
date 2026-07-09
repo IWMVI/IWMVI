@@ -1,0 +1,7 @@
+# IDE - JetBrains
+.idea/
+
+# Claude Code
+.claude/
+CLAUDE.md
+CLAUDE.local.md
